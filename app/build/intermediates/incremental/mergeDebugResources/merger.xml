@@ -1922,6 +1922,54 @@
         <item>Here is some Cycling news!</item>
         <item>Here is some Golf news!</item>
         <item>Here is some Running news!</item>
+        <item>Here is some Football news!</item>
+        <item>Here is some Swimming news!</item>
+        <item>Here is some Table Tennis news!</item>
+        <item>Here is some Tennis news!</item>
+    </string-array><string-array name="sports_titles">
+        <item>Baseball</item>
+        <item>Badminton</item>
+        <item>Basketball</item>
+        <item>Bowling</item>
+        <item>Cycling</item>
+        <item>Golf</item>
+        <item>Running</item>
+        <item>Football</item>
+        <item>Swimming</item>
+        <item>Table Tennis</item>
+        <item>Tennis</item>
+    </string-array></file><file path="C:\Users\mfath\AndroidStudioProjects\MaterialMe-Starter\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style><style name="SportsDetailTitle" parent="TextAppearance.AppCompat.Headline"/><style name="SportsTitle" parent="TextAppearance.AppCompat.Headline"/><style name="SportsDetailText" parent="TextAppearance.AppCompat.Subhead"/></file><file path="C:\Users\mfath\AndroidStudioProjects\MaterialMe-Starter\app\src\main\res\values-w820dp\dimens.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file><file path="C:\Users\mfath\AndroidStudioProjects\MaterialMe-Starter\app\src\main\res\values-sw600dp\styles.xml" qualifiers="sw600dp-v13"><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style><style name="SportsDetailText" parent="TextAppearance.AppCompat.Headline"/><style name="SportsTitle" parent="TextAppearance.AppCompat.Display1">
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style><style name="SportsDetailTitle." parent="TextAppearance.AppCompat.Display3"/></file><file path="C:\Users\mfath\AndroidStudioProjects\MaterialMe-Starter\app\src\main\res\values-en\strings.xml" qualifiers="en"><array name="sports_images">
+        <item>@drawable/img_baseball</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/img_cycling</item>
+        <item>@drawable/img_golf</item>
+        <item>@drawable/img_running</item>
+        <item>@drawable/img_soccer</item>
+        <item>@drawable/img_swimming</item>
+        <item>@drawable/img_tabletennis</item>
+        <item>@drawable/img_tennis</item>
+    </array><string name="title_placeholder">Title</string><string name="news_placeholder">News</string><string name="sports_info_placeholder">Here is some news</string><string name="app_name">Material Me!</string><string name="subtitle_detail_text">Lorem Ipsum Dolor Sit AmetLorem Ipsum Dolor Sit AmetLorem Ipsum Dolor Sit Amet</string><string-array name="sports_info">
+        <item>Here is some Baseball news!</item>
+        <item>Here is some Badminton news!</item>
+        <item>Here is some Basketball news!</item>
+        <item>Here is some Bowling news!</item>
+        <item>Here is some Cycling news!</item>
+        <item>Here is some Golf news!</item>
+        <item>Here is some Running news!</item>
         <item>Here is some Soccer news!</item>
         <item>Here is some Swimming news!</item>
         <item>Here is some Table Tennis news!</item>
@@ -1938,12 +1986,43 @@
         <item>Swimming</item>
         <item>Table Tennis</item>
         <item>Tennis</item>
-    </string-array></file><file path="C:\Users\mfath\AndroidStudioProjects\MaterialMe-Starter\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
-    </style></file><file path="C:\Users\mfath\AndroidStudioProjects\MaterialMe-Starter\app\src\main\res\values-w820dp\dimens.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file></source><source path="C:\Users\mfath\AndroidStudioProjects\MaterialMe-Starter\app\build\generated\res\rs\debug"/><source path="C:\Users\mfath\AndroidStudioProjects\MaterialMe-Starter\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="C:\Users\mfath\AndroidStudioProjects\MaterialMe-Starter\app\src\debug\res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="C:\Users\mfath\AndroidStudioProjects\MaterialMe-Starter\app\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="AlertDialog"><attr name="android:layout"/><attr format="reference" name="buttonPanelSideLayout"/><attr format="reference" name="listLayout"/><attr format="reference" name="multiChoiceItemLayout"/><attr format="reference" name="singleChoiceItemLayout"/><attr format="reference" name="listItemLayout"/><attr format="boolean" name="showTitle"/><attr format="dimension" name="buttonIconDimen"/></declare-styleable><declare-styleable name="AppCompatSeekBar"><attr name="android:thumb"/><attr format="reference" name="tickMark"/><attr format="color" name="tickMarkTint"/><attr name="tickMarkTintMode">
+    </string-array></file><file path="C:\Users\mfath\AndroidStudioProjects\MaterialMe-Starter\app\src\main\res\values-sw600dp-land\integers.xml" qualifiers="sw600dp-land-v13"><integer name="grid_column_count">3</integer></file><file path="C:\Users\mfath\AndroidStudioProjects\MaterialMe-Starter\app\src\main\res\values-sw600dp\integers.xml" qualifiers="sw600dp-v13"><integer name="grid_column_count">2</integer></file><file path="C:\Users\mfath\AndroidStudioProjects\MaterialMe-Starter\app\src\main\res\values-land\integers.xml" qualifiers="land"><integer name="grid_column_count">2</integer></file><file path="C:\Users\mfath\AndroidStudioProjects\MaterialMe-Starter\app\src\main\res\values\integers.xml" qualifiers=""><integer name="grid_column_count">1</integer></file><file path="C:\Users\mfath\AndroidStudioProjects\MaterialMe-Starter\app\src\main\res\values-in-rID\strings.xml" qualifiers="in-rID"><array name="sports_images">
+        <item>@drawable/img_baseball</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/img_cycling</item>
+        <item>@drawable/img_golf</item>
+        <item>@drawable/img_running</item>
+        <item>@drawable/img_soccer</item>
+        <item>@drawable/img_swimming</item>
+        <item>@drawable/img_tabletennis</item>
+        <item>@drawable/img_tennis</item>
+    </array><string name="title_placeholder">Title</string><string name="news_placeholder">News</string><string name="sports_info_placeholder">Here is some news</string><string name="app_name">Material Me!</string><string name="subtitle_detail_text">Lorem Ipsum Dolor Sit AmetLorem Ipsum Dolor Sit AmetLorem Ipsum Dolor Sit Amet</string><string-array name="sports_info">
+        <item>Here is some Baseball news!</item>
+        <item>Here is some Badminton news!</item>
+        <item>Here is some Basketball news!</item>
+        <item>Here is some Bowling news!</item>
+        <item>Here is some Cycling news!</item>
+        <item>Here is some Golf news!</item>
+        <item>Here is some Running news!</item>
+        <item>Here is some Sepak Bola news!</item>
+        <item>Here is some Swimming news!</item>
+        <item>Here is some Table Tennis news!</item>
+        <item>Here is some Tennis news!</item>
+    </string-array><string-array name="sports_titles">
+        <item>Baseball</item>
+        <item>Badminton</item>
+        <item>Basketball</item>
+        <item>Bowling</item>
+        <item>Cycling</item>
+        <item>Golf</item>
+        <item>Running</item>
+        <item>Sepak Bola</item>
+        <item>Swimming</item>
+        <item>Table Tennis</item>
+        <item>Tennis</item>
+    </string-array></file></source><source path="C:\Users\mfath\AndroidStudioProjects\MaterialMe-Starter\app\build\generated\res\rs\debug"/><source path="C:\Users\mfath\AndroidStudioProjects\MaterialMe-Starter\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="C:\Users\mfath\AndroidStudioProjects\MaterialMe-Starter\app\src\debug\res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="C:\Users\mfath\AndroidStudioProjects\MaterialMe-Starter\app\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="AlertDialog"><attr name="android:layout"/><attr format="reference" name="buttonPanelSideLayout"/><attr format="reference" name="listLayout"/><attr format="reference" name="multiChoiceItemLayout"/><attr format="reference" name="singleChoiceItemLayout"/><attr format="reference" name="listItemLayout"/><attr format="boolean" name="showTitle"/><attr format="dimension" name="buttonIconDimen"/></declare-styleable><declare-styleable name="AppCompatSeekBar"><attr name="android:thumb"/><attr format="reference" name="tickMark"/><attr format="color" name="tickMarkTint"/><attr name="tickMarkTintMode">
             
             <enum name="src_over" value="3"/>
             

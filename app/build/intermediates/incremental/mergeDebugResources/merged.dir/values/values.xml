@@ -21,7 +21,7 @@
         <item>Here is some Cycling news!</item>
         <item>Here is some Golf news!</item>
         <item>Here is some Running news!</item>
-        <item>Here is some Soccer news!</item>
+        <item>Here is some Football news!</item>
         <item>Here is some Swimming news!</item>
         <item>Here is some Table Tennis news!</item>
         <item>Here is some Tennis news!</item>
@@ -34,7 +34,7 @@
         <item>Cycling</item>
         <item>Golf</item>
         <item>Running</item>
-        <item>Soccer</item>
+        <item>Football</item>
         <item>Swimming</item>
         <item>Table Tennis</item>
         <item>Tennis</item>
@@ -822,6 +822,7 @@
     <integer name="cancel_button_image_alpha">127</integer>
     <integer name="config_tooltipAnimTime">150</integer>
     <integer name="design_snackbar_text_max_lines">2</integer>
+    <integer name="grid_column_count">1</integer>
     <integer name="hide_password_duration">320</integer>
     <integer name="show_password_duration">200</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
@@ -879,7 +880,7 @@
         <item name="android:windowExitAnimation">@anim/design_bottom_sheet_slide_out</item>
     </style>
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        
+        <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
@@ -2153,6 +2154,9 @@
         <item name="android:paddingLeft">@dimen/abc_action_bar_overflow_padding_start_material</item>
         <item name="android:paddingRight">@dimen/abc_action_bar_overflow_padding_end_material</item>
     </style>
+    <style name="SportsDetailText" parent="TextAppearance.AppCompat.Subhead"/>
+    <style name="SportsDetailTitle" parent="TextAppearance.AppCompat.Headline"/>
+    <style name="SportsTitle" parent="TextAppearance.AppCompat.Headline"/>
     <style name="TextAppearance.AppCompat" parent="Base.TextAppearance.AppCompat"/>
     <style name="TextAppearance.AppCompat.Body1" parent="Base.TextAppearance.AppCompat.Body1"/>
     <style name="TextAppearance.AppCompat.Body2" parent="Base.TextAppearance.AppCompat.Body2"/>

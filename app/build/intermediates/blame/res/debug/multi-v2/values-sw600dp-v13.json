@@ -4,27 +4,65 @@
             "outputFile": "C:\\Users\\mfath\\AndroidStudioProjects\\MaterialMe-Starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\mfath\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\c0e06ba5c21e8db69ebe85bcbb4945b8\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\mfath\\AndroidStudioProjects\\MaterialMe-Starter\\app\\src\\main\\res\\values-sw600dp\\integers.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,115,185,256,328,386,444,550,614,677",
-                        "endLines": "2,3,4,5,6,7,8,9,10,14",
-                        "endColumns": "59,69,70,71,57,57,105,63,62,12",
-                        "endOffsets": "110,180,251,323,381,439,545,609,672,854"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "49",
+                        "endOffsets": "102"
                     },
                     "to": {
-                        "startLines": "10,11,12,13,14,15,16,17,18,19",
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1233",
+                        "endColumns": "49",
+                        "endOffsets": "1278"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mfath\\AndroidStudioProjects\\MaterialMe-Starter\\app\\src\\main\\res\\values-sw600dp\\styles.xml",
+                    "from": {
+                        "startLines": "18,25,29,26",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "655,982,1225,1063",
+                        "endLines": "23,25,29,28",
+                        "endColumns": "12,79,81,12",
+                        "endOffsets": "974,1057,1302,1219"
+                    },
+                    "to": {
+                        "startLines": "20,26,27,28",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1283,1602,1682,1764",
+                        "endLines": "25,26,27,30",
+                        "endColumns": "12,79,81,12",
+                        "endOffsets": "1597,1677,1759,1918"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mfath\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\c0e06ba5c21e8db69ebe85bcbb4945b8\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13,14,15,16,17,18,31",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "611,671,741,812,884,942,1000,1106,1170,1233",
-                        "endLines": "10,11,12,13,14,15,16,17,18,22",
+                        "startOffsets": "611,671,741,812,884,942,1000,1106,1170,1923",
+                        "endLines": "10,11,12,13,14,15,16,17,18,34",
                         "endColumns": "59,69,70,71,57,57,105,63,62,12",
-                        "endOffsets": "666,736,807,879,937,995,1101,1165,1228,1410"
+                        "endOffsets": "666,736,807,879,937,995,1101,1165,1228,2100"
                     }
                 },
                 {
                     "source": "C:\\Users\\mfath\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\6518c5a33123b9753974390dbc595088\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
                         "startOffsets": "55,124,193,263,337,413,472,543",

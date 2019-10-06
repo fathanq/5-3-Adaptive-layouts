@@ -108,7 +108,7 @@ public final class R {
         public static final int top = 0x7f0900b5;
     }
     public static final class integer {
-        public static final int status_bar_notification_info_maxnum = 0x7f0a0009;
+        public static final int status_bar_notification_info_maxnum = 0x7f0a000a;
     }
     public static final class layout {
         public static final int notification_action = 0x7f0b002c;
@@ -122,14 +122,14 @@ public final class R {
         public static final int status_bar_notification_info_overflow = 0x7f0d0029;
     }
     public static final class style {
-        public static final int TextAppearance_Compat_Notification = 0x7f0e00f1;
-        public static final int TextAppearance_Compat_Notification_Info = 0x7f0e00f2;
-        public static final int TextAppearance_Compat_Notification_Line2 = 0x7f0e00f4;
-        public static final int TextAppearance_Compat_Notification_Time = 0x7f0e00f7;
-        public static final int TextAppearance_Compat_Notification_Title = 0x7f0e00f9;
-        public static final int Widget_Compat_NotificationActionContainer = 0x7f0e016f;
-        public static final int Widget_Compat_NotificationActionText = 0x7f0e0170;
-        public static final int Widget_Support_CoordinatorLayout = 0x7f0e017c;
+        public static final int TextAppearance_Compat_Notification = 0x7f0e00f5;
+        public static final int TextAppearance_Compat_Notification_Info = 0x7f0e00f6;
+        public static final int TextAppearance_Compat_Notification_Line2 = 0x7f0e00f8;
+        public static final int TextAppearance_Compat_Notification_Time = 0x7f0e00fb;
+        public static final int TextAppearance_Compat_Notification_Title = 0x7f0e00fd;
+        public static final int Widget_Compat_NotificationActionContainer = 0x7f0e0173;
+        public static final int Widget_Compat_NotificationActionText = 0x7f0e0174;
+        public static final int Widget_Support_CoordinatorLayout = 0x7f0e0180;
     }
     public static final class styleable {
         public static final int[] CoordinatorLayout = { 0x7f0400c7, 0x7f04014f };
